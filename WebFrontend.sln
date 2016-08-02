@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TestAngular2", "TestAngular2\TestAngular2.njsproj", "{DD025BF0-6238-401E-9F62-1D86762C56DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD025BF0-6238-401E-9F62-1D86762C56DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD025BF0-6238-401E-9F62-1D86762C56DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD025BF0-6238-401E-9F62-1D86762C56DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD025BF0-6238-401E-9F62-1D86762C56DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
